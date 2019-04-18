@@ -1,0 +1,8 @@
+{
+    "body": "<div class=\"section\" id=\"authors\">\n<h1>Authors</h1>\n<ul class=\"simple\">\n<li><p>Eric (New contributor)</p></li>\n<li><p>Anthony</p></li>\n</ul>\n</div>\n",
+    "title": "Authors",
+    "sourcename": "authors.rst.txt",
+    "current_page_name": "authors",
+    "toc": "<ul>\n<li><a class=\"reference internal\" href=\"#\">Authors</a></li>\n</ul>\n",
+    "page_source_suffix": ".rst"
+}

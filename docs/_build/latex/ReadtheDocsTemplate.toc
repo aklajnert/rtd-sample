@@ -1,0 +1,11 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Authors}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Installation}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Template}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Features}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Installation}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}Contribute}{7}{section.3.3}
+\contentsline {section}{\numberline {3.4}Support}{7}{section.3.4}
+\contentsline {section}{\numberline {3.5}License}{8}{section.3.5}
+\contentsline {chapter}{\numberline {4}Usage}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}Indices and tables}{11}{chapter.5}

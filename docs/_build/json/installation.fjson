@@ -1,0 +1,8 @@
+{
+    "body": "<div class=\"section\" id=\"installation\">\n<h1>Installation</h1>\n<p>Install the package with pip:</p>\n<div class=\"highlight-default notranslate\"><div class=\"highlight\"><pre><span></span>$ pip install read-the-docs-template\n</pre></div>\n</div>\n</div>\n",
+    "title": "Installation",
+    "sourcename": "installation.rst.txt",
+    "current_page_name": "installation",
+    "toc": "<ul>\n<li><a class=\"reference internal\" href=\"#\">Installation</a></li>\n</ul>\n",
+    "page_source_suffix": ".rst"
+}

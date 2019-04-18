@@ -1,0 +1,8 @@
+{
+    "body": "<div class=\"section\" id=\"usage\">\n<h1>Usage</h1>\n<p>To use this template, simply update it:</p>\n<div class=\"highlight-default notranslate\"><div class=\"highlight\"><pre><span></span><span class=\"kn\">import</span> <span class=\"nn\">read</span><span class=\"o\">-</span><span class=\"n\">the</span><span class=\"o\">-</span><span class=\"n\">docs</span><span class=\"o\">-</span><span class=\"n\">template</span>\n</pre></div>\n</div>\n</div>\n",
+    "title": "Usage",
+    "sourcename": "usage.rst.txt",
+    "current_page_name": "usage",
+    "toc": "<ul>\n<li><a class=\"reference internal\" href=\"#\">Usage</a></li>\n</ul>\n",
+    "page_source_suffix": ".rst"
+}
